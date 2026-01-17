@@ -1,7 +1,9 @@
-## ## Hi there 👋 I'm Hanlin Xue
+## Hi there 👋 I'm Hanlin Xue
 
 M.S. Student in ECE @ University of Washington  
 Seeking Summer 2026 internship | Robotics & ML Engineer
+
+[**✨Check my Personal Website✨**](https://mukimasta.github.io/)
 
 My work focuses on **Robotics and Machine Learning Engineering**. I'm enthusiastic about building intelligent systems that work in the real world.
 
